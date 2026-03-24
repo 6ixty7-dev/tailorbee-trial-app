@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Tailor Bee MVP",
+  "description": "A logistics and convenience platform connecting customers with boutique tailoring and cleaning services in Kochi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
